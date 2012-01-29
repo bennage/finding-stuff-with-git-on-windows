@@ -1,2 +1,3 @@
 robots are indifferent to all organic life, even monkeys
 robots have no emotions
+the are sensitive to file encodings
